@@ -1,8 +1,8 @@
 name: Sync Notion with YouTube Stats from Influencers
 
-on:
-  schedule:
-    - cron: "0 8 * * *" # Every day at 08:00am
+# on:
+#   schedule:
+#     - cron: "0 8 * * *" # Every day at 08:00am
 
 jobs:
   build:
